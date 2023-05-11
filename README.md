@@ -1,0 +1,1 @@
+# PharmaceuticalDept_design_patterns
